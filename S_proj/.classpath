@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/oracle/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/alt-rt.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/charsets.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/com.sun.jersey.jersey-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/deploy.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/jce.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/jersey-client-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/jersey-json-1.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/jfr.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/jfxrt.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/jsse.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/management-agent.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/plugin.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/resources.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/rt.jar"/>
+	<classpathentry kind="lib" path="E:/proj/project/S_proj/S_proj/lib/neo4j/neo4j-desktop-2.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

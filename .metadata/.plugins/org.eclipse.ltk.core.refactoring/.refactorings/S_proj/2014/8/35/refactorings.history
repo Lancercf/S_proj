@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;noe4jWriter&apos; to &apos;neo4jWriter&apos;&#x0D;&#x0A;- Original project: &apos;S_proj&apos;&#x0D;&#x0A;- Original element: &apos;S_proj/src/noe4jWriter&apos;&#x0D;&#x0A;- Renamed element: &apos;S_proj/src/neo4jWriter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;noe4jWriter&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;noe4jWriter" name="neo4jWriter" qualified="false" references="true" stamp="1409149612874" textual="false" version="1.0"/>
+</session>
